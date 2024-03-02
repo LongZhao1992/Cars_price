@@ -25,6 +25,8 @@ Replace [URL] with the target webpage URL from which you wish to scrape vehicle 
 # Example
 ```
 python fetch_vehicles.py "http://example.com/vehicles" "vehicles.csv"
+
+python fetch_vehicles.py "https://www.cars.com/shopping/results/?clean_title=true&dealer_id=&keyword=&list_price_max=&list_price_min=&makes[]=mazda&maximum_distance=100&mileage_max=&models[]=mazda-cx_5&monthly_payment=&page_size=20&sort=best_match_desc&stock_type=all&year_max=&year_min=2019&zip=60637" "vehicles.csv"
 ```
 This command fetches vehicle data from http://example.com/vehicles and saves it to vehicles.csv.
 
