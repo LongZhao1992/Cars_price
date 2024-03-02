@@ -3,7 +3,7 @@
 
 ## Description
 
-This script, `fetch_vehicles.py`, is designed to scrape vehicle information from a specified webpage and save the data in a CSV format. It captures details such as the vehicle's title, year, mileage, and price from the given URL. This tool is useful for anyone looking to compile vehicle listings from specific online sources into an easily manageable format.
+This script, `fetch_vehicles.py`, is designed to scrape vehicle information from a specified webpage and save the data in a CSV format. It captures details such as the vehicle's title, year, mileage, and price from the given URL. This tool is useful for anyone looking to compile vehicle listings from specific online sources into an easily manageable format. Only [cars.com](https://www.cars.com/) has been test now.
 
 [阅读中文版本](./README_zh.md)
 
